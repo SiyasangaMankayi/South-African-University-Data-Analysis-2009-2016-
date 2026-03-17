@@ -13,3 +13,5 @@ Building interactive dashboards in Power BI
 Key analysis areas include enrollment trends, graduation performance, staff demographics, financial health, and research output.
 
 The final deliverables include a cleaned dataset, SQL queries, Power BI dashboards, and a summary report highlighting insights.
+
+                              https://uni-audit-insights.lovable.app/
